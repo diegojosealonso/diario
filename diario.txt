@@ -1,1 +1,2 @@
 Dear diary: Today was just chill
+Dear diary: I learned how to use git today! :3
